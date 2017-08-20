@@ -1,0 +1,26 @@
+{
+  "name": "nestable",
+  "version": "0.2.0",
+  "description": "Drag & drop hierarchical list with mouse and touch compatibility (jQuery / Zepto plugin)",
+  "main": "jquery.nestable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sondr/Nestable.git"
+  },
+  "keywords": [
+    "jquery",
+    "zepto",
+    "nestable",
+    "drag",
+    "drop"
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/sondr/Nestable/issues"
+  },
+  "homepage": "https://github.com/sondr/Nestable#readme"
+}
